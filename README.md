@@ -95,15 +95,12 @@
 
 <div align="center">
 
-### 🌟 Statistik Pengunjung & Kucing Imut 🌟
+### 🌟 Statistik Pengunjung & 🌟
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RenoNilams&color=ff69b4&style=flat-square&label=Profile+Visitors" alt="Visitor Count">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">
-</p>
 
 *“Bridging high-accuracy AI models with intuitive user experiences.”* ✨
 
